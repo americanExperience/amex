@@ -1,4 +1,4 @@
-# Amex Peer / Self Evaluation Generator
+# Amex Peer / Self Evaluation Helper
 
 This is a projected created to aid myself and others through the othen tedious process of creating the feedback part of Amex Peer / Self Evals.
 
